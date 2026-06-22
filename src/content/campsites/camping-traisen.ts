@@ -28,7 +28,7 @@ const campingTraisen: CampsiteConfig = {
     {
       title: "Auf Terrassen gebettet",
       text: "Die Plätze liegen auf sanften Terrassen — mit weitem Blick über die Voralpen und Abstand zum Nachbarn.",
-      image: { src: `${IMG}/gallery-e67eb078e0.webp`, alt: "Luftbild: Terrassen Camping Traisen mit Hofgebäude und Stellplätzen" },
+      image: { src: `${IMG}/gallery-48eaca3e3c.webp`, alt: "Drohnenbild des Terrassen Camping Traisen — gestufte Stellplätze auf grünen Terrassen mit Blick in die Voralpen" },
     },
     {
       title: "Pool mitten im Hof",
@@ -38,7 +38,7 @@ const campingTraisen: CampsiteConfig = {
     {
       title: "Seit 50 Jahren persönlich",
       text: "Familie Wallentin führt den Platz seit 50 Jahren als echten Familienbetrieb — persönlich betreut.",
-      image: { src: `${IMG}/gallery-33294e6d17.webp`, alt: "Gastgeber begrüßen Gäste auf der Terrasse des Café-Bistro Wallentino" },
+      image: { src: `${IMG}/gallery-a9d6f35611.webp`, alt: "Familie Wallentin vor dem Hofgebäude des Terrassen Camping Traisen" },
     },
   ],
 
@@ -87,7 +87,7 @@ const campingTraisen: CampsiteConfig = {
       {
         title: "Zelten & Gruppenplatz",
         text: "Platz für Zelte, Wohnwagen und Wohnmobile — Gruppen finden einen eigenen Platz mit Lagerfeuerstelle.",
-        image: { src: `${IMG}/gallery-89b9b38a90.webp`, alt: "Zelte auf der grünen Wiese vor den Voralpen am Camping Traisen" },
+        image: { src: `${IMG}/gallery-4c16c63a82.webp`, alt: "Zelt und Motorrad auf einem sonnigen Stellplatz am Terrassen Camping Traisen mit Blick in die Voralpen" },
       },
       {
         title: "Café-Bistro Wallentino",
@@ -97,7 +97,7 @@ const campingTraisen: CampsiteConfig = {
       {
         title: "Solarstrom & Warmwasser",
         text: "Warmwasser und Strom kommen großteils aus eigener Solar- und Photovoltaikanlage am Hofdach.",
-        image: { src: `${IMG}/gallery-d1421b1dda.webp`, alt: "Photovoltaikanlage auf dem Hofdach des Camping Traisen" },
+        image: { src: `${IMG}/gallery-e67eb078e0.webp`, alt: "Solarkollektoren und Photovoltaikanlage auf dem Hofdach des Terrassen Camping Traisen" },
       },
       {
         title: "Camperservice-Station",
